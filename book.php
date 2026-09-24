@@ -95,7 +95,7 @@ $service = $res->fetch_assoc();
                                             <input type="checkbox" class="form-check-input addon-checkbox" data-price="12.00" value="Anti-Bacterial Sanitize">
                                             <span class="small fw-semibold">Anti-Bacterial Sanitize</span>
                                         </div>
-                                        <span class="small fw-bold text-success">+₹12.00</span>
+                                        <span class="small fw-bold text-success">+&#8377;12.00</span>
                                     </label>
                                 </div>
                                 <div class="col-md-6">
@@ -104,7 +104,7 @@ $service = $res->fetch_assoc();
                                             <input type="checkbox" class="form-check-input addon-checkbox" data-price="18.00" value="Extended 60-Day Warranty">
                                             <span class="small fw-semibold">Extended 60-Day Warranty</span>
                                         </div>
-                                        <span class="small fw-bold text-success">+₹18.00</span>
+                                        <span class="small fw-bold text-success">+&#8377;18.00</span>
                                     </label>
                                 </div>
                             </div>
@@ -213,7 +213,7 @@ $service = $res->fetch_assoc();
                         </div>
                         <div class="d-flex justify-content-between mb-3 pb-3 border-bottom">
                             <span class="text-muted">Taxes & Consumables:</span>
-                            <span class="fw-semibold">₹0.00</span>
+                            <span class="fw-semibold">&#8377;0.00</span>
                         </div>
 
                         <div class="d-flex justify-content-between align-items-baseline mb-4">
