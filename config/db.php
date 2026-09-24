@@ -13,7 +13,7 @@ define('DB_NAME', 'smart_services_db');
 // App Settings
 define('SITE_NAME', 'SmartService');
 define('SITE_TAGLINE', 'Uber for Home Services');
-define('CURRENCY_SYMBOL', '$');
+define('CURRENCY_SYMBOL', '₹');
 
 // Detect Base URL dynamically
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";

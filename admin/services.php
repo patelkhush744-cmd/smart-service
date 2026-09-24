@@ -176,7 +176,7 @@ $services_res = $conn->query("
                     </div>
                     <div class="row g-2">
                         <div class="col-6">
-                            <label class="form-label small fw-bold text-muted">Price ($)</label>
+                            <label class="form-label small fw-bold text-muted">Price (₹)</label>
                             <input type="number" step="0.01" name="price" class="form-control rounded-3" placeholder="49.00" required>
                         </div>
                         <div class="col-6">
